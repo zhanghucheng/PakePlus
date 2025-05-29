@@ -1,0 +1,13 @@
+{
+    "logo": "logo.png",
+    "main": "index.html",
+    "features": [
+      {
+        "code": "test",
+        "cmds": [
+          "json解析工具"
+        ],
+        "explain": "json解析工具"
+      }
+    ]
+  }
